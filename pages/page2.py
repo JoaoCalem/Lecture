@@ -1,4 +1,6 @@
 import streamlit as st
 
 
-"Testing"
+st.secrets['my_secret']
+
+st.secrets.sec1['my_secret2']
