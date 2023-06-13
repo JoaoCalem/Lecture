@@ -1,7 +1,5 @@
 numpy
 pandas
 streamlit
-tensorflow
 streamlit_webrtc
-
 opencv-python
